@@ -8,6 +8,6 @@ In this project, I attempt to build/set around the TI MSP432 board a number of p
  - ESP8266
  - DHT11
  - LDC 16x2
- - Quade \n
-The purpose is to have hands on to embedded applications just for fun! \n
+ - Quade.
+The purpose is to have hands on to embedded applications just for fun!
 The project is in progress ..............
